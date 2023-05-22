@@ -1,0 +1,24 @@
+Server is running. Waiting for connections...
+New connection accepted
+Received data from client: Request to view pictures
+Sending data to client: Picture 4: 1 visitors
+New connection accepted
+Received data from the client: Request to view pictures
+Sending data to the client: Picture 2: 1 visitors
+The new connection is accepted
+Received data from the client: Request to view pictures
+Sending data to the client: Picture 3: 1 visitors
+The new connection is accepted
+Received data from the client: Request to view pictures
+Sending data to the client: Picture 2: 2 visitors
+The new connection is accepted
+Received data from the client: Request to view pictures
+Sending data to the client: Picture 3: 2 visitors
+The new connection is accepted
+Received data from the client: Request to view pictures
+Sending data to the client: Picture 1: 1 visitors
+A new connection is accepted
+Data received from the client: Request to view pictures
+Sending data to the client: Picture 5: 1 visitors
+Data received from the client: Request to exit the gallery
+Sending data to the client: Exit the gallery

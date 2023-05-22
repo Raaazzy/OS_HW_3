@@ -1,0 +1,6 @@
+Server connection established
+Server response received: Image 3: 1 visitors
+Server response received: Image 2: 1 visitors
+Server response received: Image 3: 2 visitors
+Server response received: Image 5: 1 visitors
+Response received from the server: Exiting the gallery

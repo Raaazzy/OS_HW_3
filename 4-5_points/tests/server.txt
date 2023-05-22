@@ -1,0 +1,15 @@
+Server started
+New connection accepted
+Data received from the client: Request to view pictures
+Sending data to the client: Picture 3: 1 visitors
+New connection accepted
+Data received from the client: Request to view pictures
+Sending data to the client: Image 2: 1 visitors
+New connection accepted
+Data received from the client: Request to view pictures
+Sending data to the client: Picture 3: 2 visitors
+New connection accepted
+Data received from the client: Request to view pictures
+Sending data to the client: Picture 5: 1 visitors
+Data received from the client: Request to leave the gallery
+Sending data to the client: Exiting the gallery

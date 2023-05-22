@@ -1,0 +1,33 @@
+Connection to the server is established
+Request received from client
+Received reply from the server
+Request from the client: Request to view pictures
+Server's reply: Picture 4: 1 visitor
+Received request from client
+Received reply from the server
+Client's request: Picture browsing request
+Server reply: Picture 2: 1 visitors
+A request was received from the client
+Received reply from the server
+Client's request: Picture browsing request
+Server reply: Picture 3: 1 visitors
+A request was received from the client
+Received reply from the server
+Client's request: Picture browsing request
+Server reply: Picture 2: 2 visitors
+A request was received from the client
+Received reply from the server
+Client's request: Picture browsing request
+Server reply: Picture 3: 2 visitors
+A request was received from the client
+Received reply from the server
+Client's request: Picture browsing request
+Server reply: Picture 1: 1 visitors
+A request was received from the client
+Received reply from the server
+Client's request: Picture request
+Server's reply: Picture 5: 1 visitors
+A request was received from the client
+Received reply from the server
+Request from the client: Request to exit the gallery
+Response from the server: Exit from the gallery
